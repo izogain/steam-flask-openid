@@ -1,7 +1,7 @@
 # Steam OpenID on Google app engine.
 
 Demo app using Valve Steam OpenID authentication. The app uses Flask and basic openID libraires.
-A demo of the application can be found a this location : [gaesteamopenid.appspot.com]https://gaesteamopenid.appspot.com
+A demo of the application can be found a this location : [gaesteamopenid.appspot.com](https://gaesteamopenid.appspot.com)
 
 
 ## Installation
