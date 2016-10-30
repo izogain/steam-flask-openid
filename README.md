@@ -12,7 +12,7 @@ A demo of the application can be found a this location : [gaesteamopenid.appspot
 
 Make sure you installed the required SDKs by following the instructions on [Google app engine](https://cloud.google.com/appengine/docs/python/quickstart)
 
-Open the run.py file and add a random secret key for Flask and your steam API key. Steam API key can be registered on [Valve website](https://steamcommunity.com/dev/apikey).
+**Open the run.py file and add a random secret key for Flask and your steam API key**. Steam API key can be registered on [Valve website](https://steamcommunity.com/dev/apikey).
 
 Then, you must install the required libraries in the root lib folder:
 
