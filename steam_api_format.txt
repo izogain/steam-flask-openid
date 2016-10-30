@@ -1,0 +1,19 @@
+{
+    "response": {
+        "players": [
+            {
+                "steamid": "<id_number>",
+                "communityvisibilitystate": 1,
+                "profilestate": 1,
+                "personaname": "<persona>",
+                "lastlogoff": <timestamp>,
+                "profileurl": "http://steamcommunity.com/profiles/<id_number>/",
+                "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/<picture.jpg>",
+                "avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/<picture.jpg>.jpg",
+                "avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/de/<picture.jpg>.jpg",
+                "personastate": 0
+            }
+        ]
+
+    }
+}

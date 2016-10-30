@@ -1,0 +1,18 @@
+{# index.html #}
+{% extends "base.html" %}
+{% block body %}
+
+    <h3>Hi {{nickname}} ({{id_provider}})</h3>
+    <p class="lead">
+
+
+      Name:{{steamdata.personaname}}<br>
+      steamid:{{steamdata.steamid}}<br>
+      <a href="{{steamdata.profileurl}}" role="button">profile</a><br>
+      <img title="avatarmedium" src="{{steamdata.avatarmedium}}"/><br>
+
+
+    </p>
+    <p><a class="btn btn-lg btn-success" href="/auth/logout" role="button">Logout</a></p>
+
+{% endblock %}

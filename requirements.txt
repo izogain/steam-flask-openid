@@ -1,0 +1,4 @@
+Flask==0.10.1
+Flask-OpenID==1.2.5
+Jinja2==2.8
+python-openid==2.2.5
